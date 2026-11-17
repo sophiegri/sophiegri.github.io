@@ -6,7 +6,7 @@ subtitle: IT University of Copenhagen. <a href='purrlab.github.io'>PurrLab</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Sophie.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
