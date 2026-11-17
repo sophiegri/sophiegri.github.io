@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: IT University of Copenhagen. <a href='purrlab.github.io'>PurrLab</a>. sopgri@itu.dk 
+subtitle: IT University of Copenhagen. <a href="https://www.purrlab.github.io">PurrLab</a>. sopgri@itu.dk 
 
 profile:
   align: right
