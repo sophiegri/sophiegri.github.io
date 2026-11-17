@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /teaching/ #if i remove this, you cant find the site in general (sopgri.github.io/teaching)
 title: teaching
 description: Course materials, schedules, and resources for classes taught.
-nav: true
-nav_order: 6
+nav: false #if false then it doesn't show in the nav bar
+nav_order: 6 #position in the nav bar
 calendar: true
 ---
 
