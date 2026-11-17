@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: IT University of Copenhagen. <a href='purrlab.github.io'>PurrLab</a>. sopgri@itu.dk 
 
 profile:
   align: right
